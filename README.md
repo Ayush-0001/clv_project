@@ -39,12 +39,3 @@ Upload a CSV or Excel file with the same format as the sample csv file provided.
 🙋‍♂️ Author
 Ayush
 📧 Contact: ayushchutani633@gmail.com
-
-
-
-
-
-
-
-
-Ask ChatGPT
