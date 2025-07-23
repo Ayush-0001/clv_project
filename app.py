@@ -26,37 +26,40 @@ st.markdown("""
     margin-bottom: 10px;
 }
 
-    .stApp {
-        background-color: #f5f7fa;
-        color: #2e2e2e;
-        font-family: 'Segoe UI', sans-serif;
-    }
-    .css-1d391kg, .css-18e3th9 {
-        background-color: #e9edf5 !important;
-    }
-    .stButton>button {
-        background-color: #0066cc;
-        color: white;
-        font-weight: 500;
-        border-radius: 8px;
-        padding: 0.5em 1em;
-        border: none;
-    }
-    .stButton>button:hover {
-        background-color: #004d99;
-    }
-    h1, h2, h3 {
-        color: #004080;
-    }
-    .block-container {
-        padding-top: 2rem;
-        padding-bottom: 2rem;
-    }
-    /* Custom alert / result boxes */
+.stApp {
+    background-color: #f5f7fa;
+    color: #2e2e2e;
+    font-family: 'Segoe UI', sans-serif;
+}
 
+label {
+    color: #2e2e2e !important;
+}
 
-    </style>
+.css-1d391kg, .css-18e3th9 {
+    background-color: #e9edf5 !important;
+}
+.stButton>button {
+    background-color: #0066cc;
+    color: white;
+    font-weight: 500;
+    border-radius: 8px;
+    padding: 0.5em 1em;
+    border: none;
+}
+.stButton>button:hover {
+    background-color: #004d99;
+}
+h1, h2, h3 {
+    color: #004080;
+}
+.block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+</style>
 """, unsafe_allow_html=True)
+
 
 #header
 st.markdown("""
